@@ -65,3 +65,53 @@ html, body {
     background-image: url(https://assets-global.website-files.com/64589fb989b2b33c593db89d/6458a6db645ec6a527000cfa_home-hero-p-2000.webp);
     background-size: cover;
 }
+
+#about {
+    height: 94%;
+    width: 100%;
+    /* background-color: bisque; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 60px 70px;
+}
+
+#about h2 {
+    /* background-color: red; */
+    width: 55%;
+    /* height: 100%; */
+    font-size: 82px;
+    font-weight: 600;
+    line-height: 78px;
+    letter-spacing: -1px;
+}
+
+#about-part2 {
+    width: 35%;
+    height: 100%;
+    padding: 0 65px;
+    border-left: 2px solid #000;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    /* background-color: green; */
+}
+
+#about-part2 h3 {
+    font-size: 27px;
+    font-weight: 600;
+}
+
+#icons {
+    /* background-color: gray; */
+}
+
+#icons i {
+    background-color: #000;
+    color: #fff;
+    padding: 12px;
+    font-size: 24px;
+    border-radius: 50px;
+    margin-right: 10px;
+
+}
