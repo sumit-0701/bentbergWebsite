@@ -67,29 +67,29 @@ html, body {
 }
 
 #about {
-    height: 94%;
+    height: 50%;
     width: 100%;
     /* background-color: bisque; */
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 60px 70px;
+    padding: 70px 65px;
 }
 
 #about h2 {
     /* background-color: red; */
-    width: 55%;
+    width: 56%;
     /* height: 100%; */
-    font-size: 82px;
+    font-size: 88px;
     font-weight: 600;
-    line-height: 78px;
+    line-height: 86px;
     letter-spacing: -1px;
 }
 
 #about-part2 {
-    width: 35%;
+    width: 34%;
     height: 100%;
-    padding: 0 65px;
+    padding: 4px 65px;
     border-left: 2px solid #000;
     display: flex;
     flex-direction: column;
@@ -98,7 +98,7 @@ html, body {
 }
 
 #about-part2 h3 {
-    font-size: 27px;
+    font-size: 32px;
     font-weight: 600;
 }
 
